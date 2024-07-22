@@ -1,0 +1,8 @@
+# ninja log v5
+9	1436	7433318256892292	CMakeFiles/Work5.dir/Address.cpp.obj	4d549e621e6a51dc
+1	1603	7433318258548488	CMakeFiles/Work5.dir/main.cpp.obj	319a34e4dd989aa0
+15	1657	7433318259058349	CMakeFiles/Work5.dir/Person.cpp.obj	8e316c522a15cbb8
+37	1714	7433318259650097	CMakeFiles/Work5.dir/Lawyer.cpp.obj	d05a315bb99390e7
+22	1720	7433318259716126	CMakeFiles/Work5.dir/Client.cpp.obj	d7b512783d9aec0b
+30	1807	7433318260603757	CMakeFiles/Work5.dir/LawFirm.cpp.obj	777bd968bda602f8
+1808	2018	7433318262671608	Work5.exe	ae89fb8b69fff9af
